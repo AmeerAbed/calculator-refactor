@@ -10,7 +10,23 @@
 </head>
 
 <body>
+  <form>
+    square 1 : <input type="text" id="square1">
+    square 2 : <input type="text" id="square2">
+    Operator: 
+    <select id="options">
+          <option value="plus">plus</option>
+          <option value="min">Minus</option>
+          <option value="div">Divide</option>
+          <option value="mul">Multiply</option>
+  </select>
+    <button type="button" onclick="calc()">calculate</button>
+  </form>
+  <div id="result"></div>
 
 </body>
-
+<script src="all.js"></script>
+<script src="handler.js"></script>
+<script src="listener.js"></script>
+<script src="logic.js"></script>
 </html>

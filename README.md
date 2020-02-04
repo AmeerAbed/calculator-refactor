@@ -1,4 +1,31 @@
-> * Follow [this tutorial from `mmtuts`](https://www.youtube.com/watch?v=qQEYAOPWDzk) and refactor your finished code into the files of this repository.  Be sure to organize your development process using Git Branches
-> * To learn more about how to organize your code & how to write development-strategies for this project, you can study the [using-user-input exercises](https://github.com/hackyourfuturebelgium/using-user-input)
-> * And of course, don't be limited by the tutorial!  It's just a starting point.  After making the base project work, follow your imagination
-> * Branching: for this project you should organize your branches basesd on _concern_ instead of user story.  If you look in the `development-strategy` template file you will find that there are a series of tables, the code for each table should be developed on it's own branch.  You can also find information on what the branches should be called in the students/module overview app for your class, and the assignment in the week's README
+#  Isolate and Integrate
+part of weekly basis projects given by [HYF.be](https://hackyourfuture.be/) this is the 1st week project is to create a  Isolate and Integrate 
+
+<br>
+
+# Goal
+By creating calculator
+ - the ability to take a living idea and express it with your own code.
+ - learning JS
+ - creating there projects in small steps by working with Giy/GitKraken/Github .
+
+ 
+ 
+ <br>
+  
+# liveDemo
+check the **[Live-Demo]()**.
+![]() . 
+ 
+ <br>
+  
+ # steps
+- [x] Fork [Isolate and Integrate](https://github.com/HackYourFutureBelgium/IsolateandIntegrate/)..
+- [x] created section one index branch.
+- [x] updated html in index-branch
+- [x] created section two handler banch .
+- [x] updated  handler banch.
+- [x] created section three lestener section branch.
+- [x] updated lestener section in lestene-branch .
+- [x] created section four logic branch .
+- [x] updated logic section in logic-branch.
